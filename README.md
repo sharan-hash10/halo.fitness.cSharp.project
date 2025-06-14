@@ -1,1 +1,1 @@
-# halo.fitness.cSharp.project
+Created a software application for a fitness Company called Halo Fitness that runs health and fitness programs. The application enables their sales team to generate pricing and process bookings for their range of programs.
