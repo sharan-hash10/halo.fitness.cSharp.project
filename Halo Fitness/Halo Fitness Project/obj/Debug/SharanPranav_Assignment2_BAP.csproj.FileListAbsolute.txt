@@ -1,0 +1,10 @@
+C:\Users\shara\OneDrive\Desktop\Sharan_Assignment2_BAP\Sharan_Assignment2_BAP\obj\Debug\SharanPranav_Assignment2_BAP.csproj.AssemblyReference.cache
+C:\Users\shara\OneDrive\Desktop\Sharan_Assignment2_BAP\Sharan_Assignment2_BAP\obj\Debug\SharanPranav_Assignment2_BAP.Welcome_Form.resources
+C:\Users\shara\OneDrive\Desktop\Sharan_Assignment2_BAP\Sharan_Assignment2_BAP\obj\Debug\Sharan_Assignment2_BAP.Properties.Resources.resources
+C:\Users\shara\OneDrive\Desktop\Sharan_Assignment2_BAP\Sharan_Assignment2_BAP\obj\Debug\SharanPranav_Assignment2_BAP.csproj.GenerateResource.cache
+C:\Users\shara\OneDrive\Desktop\Sharan_Assignment2_BAP\Sharan_Assignment2_BAP\obj\Debug\SharanPranav_Assignment2_BAP.csproj.CoreCompileInputs.cache
+C:\Users\shara\OneDrive\Desktop\Sharan_Assignment2_BAP\Sharan_Assignment2_BAP\obj\Debug\Sharan_Assignment2_BAP.exe
+C:\Users\shara\OneDrive\Desktop\Sharan_Assignment2_BAP\Sharan_Assignment2_BAP\obj\Debug\Sharan_Assignment2_BAP.pdb
+C:\Users\shara\OneDrive\Desktop\Sharan_Assignment2_BAP\Sharan_Assignment2_BAP\bin\Debug\Sharan_Assignment2_BAP.exe.config
+C:\Users\shara\OneDrive\Desktop\Sharan_Assignment2_BAP\Sharan_Assignment2_BAP\bin\Debug\Sharan_Assignment2_BAP.exe
+C:\Users\shara\OneDrive\Desktop\Sharan_Assignment2_BAP\Sharan_Assignment2_BAP\bin\Debug\Sharan_Assignment2_BAP.pdb
